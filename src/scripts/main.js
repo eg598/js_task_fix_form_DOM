@@ -1,7 +1,7 @@
 'use strict';
 
 // write code here
-const inputs = document.querySelectorAll('.field-text');
+const inputs = document.querySelectorAll('form input');
 
 function formatLabel(item) {
   item.insertAdjacentHTML(
